@@ -1,0 +1,54 @@
+h2 {
+    text-align: center;
+    font-family: Pixelify Sans;
+    color: white;
+}
+body {
+    background-color: black;
+}
+h1 {
+    font-family: Oswald;
+    color: white;
+}
+p {
+    font-family: Ubuntu;
+    color: white;
+}
+ul {
+    font-family: Ubuntu;
+    color: white;
+}
+li {
+    font-family: Ubuntu;
+    color: white;
+}
+#name {
+    text-align: center;
+    font-family: Major Mono Display !important;
+}
+#start {
+    background-image:url(1000_F_284542760_5xc8twGn12Y7OzNUVz6xIRT9BIV52cQx.jpg) !important;
+    margin-bottom: 100px
+}
+img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+        
+}
+#nav{
+  list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+#nav a{
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    color: white;
+}
+#nav li{
+    float: left;
+}

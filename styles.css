@@ -27,7 +27,7 @@ li {
     font-family: Major Mono Display !important;
 }
 #start {
-    background-image:url(Space_Stars1.png) !important;
+    background-image:url(img.png) !important;
     margin-bottom: 100px
 }
 img {
@@ -51,4 +51,13 @@ img {
 }
 #nav li{
     float: left;
+}
+.button{
+width: 88px;
+height: 31px;
+padding: 0;
+}
+#butp {
+width: 88px;
+height: 31px;
 }
